@@ -1,0 +1,18 @@
+# Table of contents
+
+* [✅ AGILE+JIRA](README.md)
+* [✅ About JIRA](about-jira.md)
+* [✅ CREATE EPIC & USER STORIES IN JIRA](create-epic-and-user-stories-in-jira.md)
+* [✅ COMPONENTS](components.md)
+* [✅ RELEASES](releases.md)
+* [✅ Backlog refinement/Grooming meet](backlog-refinement-grooming-meet.md)
+* [✅ SPRINT](sprint.md)
+* [✅ Reports](reports.md)
+* [✅ Retrospective meet](retrospective-meet.md)
+* [✅ Kanban Board](kanban-board.md)
+* [✅ STLC](stlc.md)
+* [✅ Effective TCs writing in Industry standards](effective-tcs-writing-in-industry-standards.md)
+* [✅ Defect cycle](defect-cycle.md)
+* [✅ Type of Testing](type-of-testing.md)
+* [✅ Functional/Non-functional Testing](functional-non-functional-testing.md)
+* [✅ BugZilla](bugzilla.md)
